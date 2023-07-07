@@ -114,13 +114,13 @@ Pull Request description: The Step 1 of researching GitHub Pages
 
 ## Step 2
 
-### Task list
+### Task list Step 2
 
 - In an existing repository, create a branch named `html` from `gh-pages`
 - Add a `index.html` and `style.css` file to the repository
 - Deploy it on GitHub Pages
 
-### Action
+### Action Step 2
 
 ```sh
 git status
@@ -151,7 +151,7 @@ git commit -m "edit: add link to README.md"
 git push --set-upstream origin html
 ```
 
-### Pull Request
+### Pull Request Step 2
 
 Pull Request from `html` in `gh-pages`
 
@@ -176,10 +176,15 @@ git log --decorate --graph --all --oneline
 git checkout -b html
 ```
 
-Markup and styling work ...  
-indexing commits pushing ...
+### Task list Step 3
 
-### Pull Request
+Markup and styling work ...  
+
+### Action Step 3
+
+indexing, commits, pushing ...
+
+### Pull Request Step 3
 
 #### 1
 
@@ -198,7 +203,6 @@ PR name: Step 3 Phase 2
 Pull Request description: *not required*
 
 **Make a Merge Pull Request**
-
 
 ```sh
 # git push --force origin html

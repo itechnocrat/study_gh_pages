@@ -56,8 +56,12 @@ gh auth status
 ```sh
 gh repo create
 #
-gh repo delete
+# gh repo delete # To remove an external repository, the command must be given in the project directory
 ```
+
+The external repository is created and linked to the local one!
+
+### Continuation of work
 
 Create a `gh-pages` branch from `main` and switch to `gh-pages`:
 
@@ -110,7 +114,7 @@ Pull Request from `gh-pages` in `main`/`master`
 PR name: Step 1  
 Pull Request description: The Step 1 of researching GitHub Pages
 
-**Do not Megre Pull Request**
+__Do not Megre Pull Request__
 
 ## Step 2
 

@@ -209,7 +209,7 @@ Pull Request description: *not required*
 git push origin html
 ```
 
-## Resoures
+## Resources
 
 [Edit commit messages](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message#amending-older-or-multiple-commit-messages)
 

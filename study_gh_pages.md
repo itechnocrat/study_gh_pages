@@ -114,7 +114,7 @@ Pull Request from `gh-pages` in `main`/`master`
 PR name: Step 1  
 Pull Request description: The Step 1 of researching GitHub Pages
 
-__Do not Megre Pull Request__
+__Do not Merge Pull Request!__
 
 ## Step 2
 
@@ -162,7 +162,7 @@ Pull Request from `html` in `gh-pages`
 PR name: Step 2  
 Pull Request description: The Step 2 of researching GitHub Pages
 
-**Make a Merge Pull Request**
+__Make a Merge Pull Request!__
 
 ```sh
 # git push --force origin html
@@ -197,7 +197,7 @@ Pull Request from `html` in `main`/`master`
 PR name: Step 3 Phase 1  
 Pull Request description: The Step 3 of researching GitHub Pages
 
-**Do not Megre Pull Request**
+__Do not Merge Pull Request!__
 
 #### 2
 
@@ -206,7 +206,7 @@ Pull Request from `html` in `gh-pages`
 PR name: Step 3 Phase 2  
 Pull Request description: *not required*
 
-**Make a Merge Pull Request**
+__Make a Merge Pull Request!__
 
 ```sh
 # git push --force origin html
